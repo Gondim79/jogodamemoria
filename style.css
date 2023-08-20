@@ -1,0 +1,17 @@
+.board{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+}
+
+button {
+    text-transform: uppercase;
+    border-radius: 10px;
+
+}
+button:hover {
+    background-color: #ff0000;
+    color: #fff;
+}
